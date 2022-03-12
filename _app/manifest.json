@@ -1,0 +1,116 @@
+{
+  ".svelte-kit/runtime/client/start.js": {
+    "file": "start-1ae43d50.js",
+    "src": ".svelte-kit/runtime/client/start.js",
+    "isEntry": true,
+    "imports": [
+      "_vendor-eca643b2.js"
+    ],
+    "dynamicImports": [
+      "src/routes/__layout.svelte",
+      ".svelte-kit/runtime/components/error.svelte",
+      "src/routes/index.md",
+      "src/routes/getting-started/icons.md",
+      "src/routes/getting-started/css.md",
+      "src/routes/components/pagination.md",
+      "src/routes/components/buttons.md"
+    ]
+  },
+  "src/routes/__layout.svelte": {
+    "file": "pages/__layout.svelte-34c65f8c.js",
+    "src": "src/routes/__layout.svelte",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-eca643b2.js"
+    ],
+    "css": [
+      "assets/pages/__layout.svelte-5b21be0f.css"
+    ]
+  },
+  ".svelte-kit/runtime/components/error.svelte": {
+    "file": "error.svelte-eae92544.js",
+    "src": ".svelte-kit/runtime/components/error.svelte",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-eca643b2.js"
+    ]
+  },
+  "src/routes/index.md": {
+    "file": "pages/index.md-9e151384.js",
+    "src": "src/routes/index.md",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-eca643b2.js",
+      "_page-d3da5a46.js"
+    ]
+  },
+  "src/routes/getting-started/icons.md": {
+    "file": "pages/getting-started/icons.md-3384525d.js",
+    "src": "src/routes/getting-started/icons.md",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-eca643b2.js",
+      "_page-d3da5a46.js"
+    ]
+  },
+  "src/routes/getting-started/css.md": {
+    "file": "pages/getting-started/css.md-4f904274.js",
+    "src": "src/routes/getting-started/css.md",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-eca643b2.js",
+      "_page-d3da5a46.js"
+    ]
+  },
+  "src/routes/components/pagination.md": {
+    "file": "pages/components/pagination.md-b73806a8.js",
+    "src": "src/routes/components/pagination.md",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-eca643b2.js",
+      "_page-d3da5a46.js",
+      "_Button-1ae9dd79.js"
+    ],
+    "css": [
+      "assets/pages/components/pagination.md-8f580d86.css"
+    ]
+  },
+  "src/routes/components/buttons.md": {
+    "file": "pages/components/buttons.md-84fe9054.js",
+    "src": "src/routes/components/buttons.md",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-eca643b2.js",
+      "_page-d3da5a46.js",
+      "_Button-1ae9dd79.js"
+    ]
+  },
+  "_vendor-eca643b2.js": {
+    "file": "chunks/vendor-eca643b2.js"
+  },
+  "_page-d3da5a46.js": {
+    "file": "chunks/page-d3da5a46.js",
+    "imports": [
+      "_vendor-eca643b2.js"
+    ],
+    "css": [
+      "assets/page-1654c471.css"
+    ]
+  },
+  "_Button-1ae9dd79.js": {
+    "file": "chunks/Button-1ae9dd79.js",
+    "imports": [
+      "_vendor-eca643b2.js"
+    ],
+    "css": [
+      "assets/Button-00e7b072.css"
+    ]
+  }
+}
